@@ -42,7 +42,8 @@
         "HTML",
         "CSS",
         "DSA",
-        "Redux"
+        "Redux",
+        "GraphQL"
       ],
       "required": true
     },
